@@ -1,0 +1,46 @@
+body{
+    background-color: #3D9970;
+    margin: auto;
+}
+.floatleft{
+    float: left;
+}
+.links
+    {
+    float: right;
+    }
+    
+a{
+    color: #634523;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 9px;
+
+}
+p {
+    text-align: justify;
+}
+li
+{
+    float: left;
+    text-decoration: none;
+}
+ul 
+{
+    text-decoration: none;
+    list-style-type: none;
+}
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: #000000;
+    background-color: #433077;
+    text-align: center;
+}
+#jonas{
+    padding: 15px;
+    color: #ffffff;
+    background: #35424a;
+    border-bottom: #57542b 2px solid;
+}
